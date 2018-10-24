@@ -1,6 +1,7 @@
 
 
-.body-initial {background-color: rgba(255,128,0,1); background-image: url('../assets/IMAG3775.jpg');}.silex-id-1540377257999-5 {width: 1013px; min-height: 314px; top: -42px; left: 62px;}@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {.silex-id-1540377257999-5 {left: 31px; top: 60px; width: 417px; min-height: 313px;}}
+.body-initial {background-color: rgba(255,128,0,1); background-image: url('../assets/IMAG3775.jpg');}.silex-id-1540377257999-5 {width: 1013px; min-height: 314px; top: 24px; left: 30px;}@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {.silex-id-1540377257999-5 {left: 12px; top: 60px; width: 455px; min-height: 100px;}}
 
 .text-style-1 p {font-family: Arial, sans-serif; font-weight: bold;}
-.text-style-2 p {font-family: Georgia, serif; font-weight: bolder; font-size: 100px; text-align: left; letter-spacing: 9px;}.text-style-2 b {letter-spacing: 9px;}@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {.text-style-2 p {font-size: 40px;}}body.silex-runtime {opacity: 1;}
+.text-style-2 p {font-family: Georgia, serif; font-weight: bolder; text-align: left; letter-spacing: 1px;}.text-style-2 b {letter-spacing: 9px;}@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {.text-style-2 p {font-size: 20px; letter-spacing: 1px;}}
+.text-style-3 p {font-family: Trebuchet MS, sans-serif; font-size: 20px;}@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {.text-style-3 p {font-size: 10px;}}body.silex-runtime {opacity: 1;}
